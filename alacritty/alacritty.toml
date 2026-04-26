@@ -1,5 +1,8 @@
 [general]
 live_config_reload = true
+import = [
+    "~/.config/alacritty/themes/themes/kitty.toml"
+]
 
 [window]
 padding = {x = 5, y = 5}
