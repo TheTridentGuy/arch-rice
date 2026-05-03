@@ -7,3 +7,5 @@
 !fuzzel/*
 !flameshot/
 !flameshot/*
+!doplhinrc
+!hyfetch.json
