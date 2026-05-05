@@ -1,4 +1,5 @@
 [General]
+ShowFullPathInTitlebar=true
 Version=202
 ViewPropsTimestamp=2025,12,15,18,23,53.524
 
@@ -8,6 +9,9 @@ Places Icons Static Size=22
 
 [MainWindow]
 MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,glycin-heif,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,glycin-image-rs,jpegthumbnail,glycin-jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,glycin-svg,svgthumbnail
 
 [UiSettings]
 ColorScheme=BreezeDark
