@@ -1,0 +1,9 @@
+[global]
+icon_theme = breeze-dark
+font = "JetBrains Mono" 10
+offset = (10, 10)
+corner_radius = 5
+frame_width = 2
+frame_color = "#aa0000"
+background = "#040404"
+foreground = "#aa0000"

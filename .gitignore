@@ -9,3 +9,5 @@
 !flameshot/*
 !dolphinrc
 !hyfetch.json
+!dunst/
+!dunst/*
